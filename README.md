@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0D1117,5B3C70,3178c6&height=220&section=header&text=Thang%20Nguyen&fontSize=50&fontAlignY=35&desc=Software%20Developer%20%7C%20Distributed%20Systems%20%26%20Networking&descAlignY=60&descSize=18&animation=false" alt="Header Banner" />
-</p>
-
-<p align="center">
   <img src="https://hits.dwyl.com/quaywin/quaywin.svg?style=flat-square&show=unique&label=Profile%20Views&color=5b3c70" alt="Views Counter" />
   &nbsp;
   <img src="https://img.shields.io/github/followers/quaywin?label=Followers&style=flat-square&color=3178c6" alt="Followers" />
