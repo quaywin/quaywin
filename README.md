@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&custom_color_list=0D1117,5B3C70,3178c6&height=220&section=header&text=Thang%20Nguyen&fontSize=52&fontAlignY=38&desc=Software%20Developer%20%7C%20Distributed%20Systems%20%26%20Networking&descAlignY=62&descSize=18" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Thang%20Nguyen&fontSize=50&fontAlignY=35&desc=Software%20Developer%20%7C%20Distributed%20Systems%20%26%20Networking&descAlignY=60&descSize=18" alt="Header Banner" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/personal-badges/badge/?username=quaywin&color=5B3C70&style=flat-square&label=Profile+Views" alt="Views Counter" />
+  <img src="https://hits.dwyl.com/quaywin/quaywin.svg?style=flat-square&show=unique&label=Profile%20Views&color=5b3c70" alt="Views Counter" />
   &nbsp;
   <img src="https://img.shields.io/github/followers/quaywin?label=Followers&style=flat-square&color=3178c6" alt="Followers" />
   &nbsp;
@@ -66,9 +66,9 @@ Here are some of the open-source projects I've been hacking on:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quaywin&show_icons=true&theme=radical&bg_color=0D1117&title_color=5B3C70&icon_color=3178c6&text_color=c9d1d9&border_color=5B3C70" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=quaywin&show_icons=true&theme=radical&bg_color=0D1117&title_color=5B3C70&icon_color=3178c6&text_color=c9d1d9&border_color=5B3C70" alt="GitHub Stats" width="48%" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quaywin&layout=compact&theme=radical&bg_color=0D1117&title_color=5B3C70&text_color=c9d1d9&border_color=5B3C70" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=quaywin&layout=compact&theme=radical&bg_color=0D1117&title_color=5B3C70&text_color=c9d1d9&border_color=5B3C70" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
