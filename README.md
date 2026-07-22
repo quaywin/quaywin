@@ -14,7 +14,7 @@ Hi! I'm **Thang Nguyen**, a Software Developer at **[@nextid](https://github.com
 
 - ⚙️ **Currently focusing on**: Elixir/OTP, JavaScript, and Go.
 - 🛠️ **Building**: Zero-config multi-server log streaming and multi-tunnel VPN orchestrators.
-- 🚀 **Specialties**: Network routing, web scrapers, Model Context Protocol (MCP) integrations, and developer tooling.
+- 🚀 **Specialties**: Distributed systems, web applications, developer tooling, and network orchestration.
 
 ---
 
