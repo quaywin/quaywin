@@ -62,13 +62,11 @@ Here are some of the open-source projects I've been hacking on:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=quaywin&show_icons=true&theme=radical&bg_color=0D1117&title_color=5B3C70&icon_color=3178c6&text_color=c9d1d9&border_color=5B3C70" alt="GitHub Stats" width="48%" />
-  &nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=quaywin&layout=compact&theme=radical&bg_color=0D1117&title_color=5B3C70&text_color=c9d1d9&border_color=5B3C70" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=quaywin&show_icons=true&theme=radical&bg_color=0D1117&title_color=5B3C70&icon_color=3178c6&text_color=c9d1d9&border_color=5B3C70" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quaywin&theme=radical&background=0D1117&ring=5B3C70&fire=3178c6&currStreakLabel=c9d1d9&border=5B3C70" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quaywin&theme=radical&background=0D1117&ring=5B3C70&fire=3178c6&currStreakLabel=c9d1d9&border=5B3C70" alt="GitHub Streak" />
 </p>
 
 ---
