@@ -14,7 +14,7 @@
 
 ### 🔮 About Me
 
-Hi! I'm **Thang Nguyen**, a Software Developer at **[@nextid](https://github.com/nextid)** & **[@Impetus-Bet](https://github.com/Impetus-Bet)**. I specialize in building distributed, high-performance systems, interactive terminal applications, and network orchestration tooling.
+Hi! I'm **Thang Nguyen**, a Software Developer at **[@nextid](https://github.com/nextid)**. I specialize in building distributed, high-performance systems, interactive terminal applications, and network orchestration tooling.
 
 - ⚙️ **Currently focusing on**: Elixir/OTP, JavaScript, and Go.
 - 🛠️ **Building**: Zero-config multi-server log streaming and multi-tunnel VPN orchestrators.
