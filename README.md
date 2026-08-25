@@ -15,14 +15,23 @@
 
 ### ⚡ About Me
 
-I specialize in building distributed, high-concurrency systems, terminal-based developer utilities, and resilient network control planes.
+I specialize in building distributed, high-concurrency systems, quantitative engines, terminal utilities, and resilient network control planes.
 
-- 🔭 **Currently Building:** Zero-config multi-server log streaming and multi-tunnel VPN orchestrators.
+- 🔭 **Currently Building:** Real-time prediction arenas ([PickIn](https://pickin.app/)), sub-millisecond quant trading infrastructure ([Quaywin Trading](https://trading.quaywin.com/)), and multi-tunnel VPN orchestrators.
 - 💡 **Core Focus:** Elixir/OTP, Go, TypeScript, WireGuard/Tailscale networking, and LLM protocols (MCP).
 
 ---
 
-### ⭐️ Featured Work
+### 🚀 Active Products & Platforms
+
+| Platform | Stack | Description |
+| :--- | :--- | :--- |
+| [**PickIn**](https://pickin.app/) | `Elixir` `LiveView` `Tailwind` | Real-time social sports prediction arena featuring private friend pools, live scoreboards, and tactical Hope Star multipliers. |
+| [**Quaywin Trading**](https://trading.quaywin.com/) | `TypeScript` `Bun` `Binance` `MCP` | Sub-millisecond algorithmic trading platform with in-memory indicator computing, automated Binance Futures execution, and MCP AI agent copilot. |
+
+---
+
+### ⭐️ Open-Source & Developer Tooling
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
@@ -45,6 +54,7 @@ I specialize in building distributed, high-concurrency systems, terminal-based d
 
 - **Frameworks & Ecosystem:** &nbsp;
   <img src="https://img.shields.io/badge/Phoenix-FD4F00?style=flat-square&logo=phoenix-framework&logoColor=white" alt="Phoenix" />
+  <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun" />
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
