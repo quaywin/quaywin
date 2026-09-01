@@ -27,20 +27,20 @@ I specialize in building distributed, high-concurrency systems, quantitative eng
 | Platform | Stack | Description |
 | :--- | :--- | :--- |
 | [**PickIn**](https://pickin.app/) | `Elixir` `LiveView` `Tailwind` | Real-time social sports prediction arena featuring private friend pools, live scoreboards, and tactical Hope Star multipliers. |
-| [**Quaywin Trading**](https://trading.quaywin.com/) | `TypeScript` `Bun` `Binance` `MCP` | Sub-millisecond algorithmic trading platform with in-memory indicator computing, automated Binance Futures execution, and MCP AI agent copilot. |
+| [**Quaywin Trading**](https://trading.quaywin.com/) | `Elixir` `LiveView` `Binance` `MCP` | Sub-millisecond algorithmic trading platform with in-memory indicator computing, automated Binance Futures execution, and MCP AI agent copilot. |
 
 ---
 
 ### ⭐️ Open-Source & Developer Tooling
 
-| Project | Stack | Description |
-| :--- | :--- | :--- |
-| [**caudata**](https://github.com/quaywin/caudata) | `Elixir` `Ratatui` `LiveView` | Collaborative zero-config multi-server log streamer with TUI & Web interfaces. |
-| [**hermit**](https://github.com/quaywin/hermit) | `Elixir` `WireGuard` `Tailscale` | Modular multi-tunnel VPN orchestrator & DNS control plane with DoH support. |
-| [**agys**](https://github.com/quaywin/agys) | `Go` `CLI` | Antigravity CLI switcher isolating account profiles via dynamic `HOME` routing. |
-| [**binance-news-mcp**](https://github.com/quaywin/binance-news-mcp) | `TypeScript` `MCP` | Model Context Protocol server streaming real-time financial intelligence to LLMs. |
-| [**strix**](https://github.com/quaywin/strix) | `TypeScript` `Playwright` `Elysia` | High-throughput streaming scraper engine with headless browser automation. |
-| [**quota-sense-cli**](https://github.com/quaywin/quota-sense-cli) | `Go` `CLI` | Lightweight CLI utility to monitor and manage server resource quotas. |
+| Project | Stars | Stack | Description |
+| :--- | :---: | :--- | :--- |
+| [**caudata**](https://github.com/quaywin/caudata) | [![Stars](https://img.shields.io/github/stars/quaywin/caudata?style=flat-square&label=%E2%AD%90)](https://github.com/quaywin/caudata/stargazers) | `Elixir` `Ratatui` `LiveView` | Collaborative zero-config multi-server log streamer with TUI & Web interfaces. |
+| [**hermit**](https://github.com/quaywin/hermit) | [![Stars](https://img.shields.io/github/stars/quaywin/hermit?style=flat-square&label=%E2%AD%90)](https://github.com/quaywin/hermit/stargazers) | `Elixir` `WireGuard` `Tailscale` | Modular multi-tunnel VPN orchestrator & DNS control plane with DoH support. |
+| [**agys**](https://github.com/quaywin/agys) | [![Stars](https://img.shields.io/github/stars/quaywin/agys?style=flat-square&label=%E2%AD%90)](https://github.com/quaywin/agys/stargazers) | `Go` `CLI` | Antigravity CLI switcher isolating account profiles via dynamic `HOME` routing. |
+| [**binance-news-mcp**](https://github.com/quaywin/binance-news-mcp) | [![Stars](https://img.shields.io/github/stars/quaywin/binance-news-mcp?style=flat-square&label=%E2%AD%90)](https://github.com/quaywin/binance-news-mcp/stargazers) | `TypeScript` `MCP` | Model Context Protocol server streaming real-time financial intelligence to LLMs. |
+| [**strix**](https://github.com/quaywin/strix) | [![Stars](https://img.shields.io/github/stars/quaywin/strix?style=flat-square&label=%E2%AD%90)](https://github.com/quaywin/strix/stargazers) | `TypeScript` `Playwright` `Elysia` | High-throughput streaming scraper engine with headless browser automation. |
+| [**quota-sense-cli**](https://github.com/quaywin/quota-sense-cli) | [![Stars](https://img.shields.io/github/stars/quaywin/quota-sense-cli?style=flat-square&label=%E2%AD%90)](https://github.com/quaywin/quota-sense-cli/stargazers) | `Go` `CLI` | Lightweight CLI utility to monitor and manage server resource quotas. |
 
 ---
 
