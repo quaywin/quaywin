@@ -24,10 +24,10 @@ I specialize in building distributed, high-concurrency systems, quantitative eng
 
 ### 🚀 Active Products & Platforms
 
-| Platform | Language | Description |
-| :--- | :--- | :--- |
-| [**PickIn**](https://pickin.app/) | `Elixir` `LiveView` `Tailwind` | Real-time social sports prediction arena featuring private friend pools, live scoreboards, and tactical Hope Star multipliers. |
-| [**Quaywin Trading**](https://trading.quaywin.com/) | `Elixir` `LiveView` `Binance` `MCP` | Sub-millisecond algorithmic trading platform with in-memory indicator computing, automated Binance Futures execution, and MCP AI agent copilot. |
+| Platform | Description |
+| :--- | :--- |
+| [**PickIn**](https://pickin.app/) | Real-time social sports prediction arena featuring private friend pools, live scoreboards, and tactical Hope Star multipliers. |
+| [**Quaywin Trading**](https://trading.quaywin.com/) | Sub-millisecond algorithmic trading platform with in-memory indicator computing, automated Binance Futures execution, and MCP AI agent copilot. |
 
 ---
 
@@ -35,12 +35,12 @@ I specialize in building distributed, high-concurrency systems, quantitative eng
 
 | Project | Stars | Language | Description |
 | :--- | :---: | :--- | :--- |
-| [**caudata**](https://github.com/quaywin/caudata) | [![Stars](https://img.shields.io/github/stars/quaywin/caudata?style=flat-square&label=%E2%AD%90)](https://github.com/quaywin/caudata/stargazers) | `Elixir` `Ratatui` `LiveView` | Collaborative zero-config multi-server log streamer built with Elixir/OTP, Ratatui, and Phoenix LiveView. |
-| [**agys**](https://github.com/quaywin/agys) | [![Stars](https://img.shields.io/github/stars/quaywin/agys?style=flat-square&label=%E2%AD%90)](https://github.com/quaywin/agys/stargazers) | `Go` `CLI` | Multi-profile isolation & real-time quota tracking for Antigravity CLI in Herdr via zero-pollution sandboxing. |
-| [**hermit**](https://github.com/quaywin/hermit) | [![Stars](https://img.shields.io/github/stars/quaywin/hermit?style=flat-square&label=%E2%AD%90)](https://github.com/quaywin/hermit/stargazers) | `Elixir` `WireGuard` `Tailscale` | Modular multi-tunnel VPN orchestrator & DNS control plane with ad-blocking DoH support. |
-| [**strix**](https://github.com/quaywin/strix) | [![Stars](https://img.shields.io/github/stars/quaywin/strix?style=flat-square&label=%E2%AD%90)](https://github.com/quaywin/strix/stargazers) | `TypeScript` `Playwright` `Elysia` | Streaming scrape API built on Elysia + Playwright with headless browser automation. |
-| [**rlink**](https://github.com/quaywin/rlink) | [![Stars](https://img.shields.io/github/stars/quaywin/rlink?style=flat-square&label=%E2%AD%90)](https://github.com/quaywin/rlink/stargazers) | `Go` `CLI` `SSH` | Open remote code in your local Zed, VS Code, or Cursor instantly from remote terminals over reverse SSH tunnel. |
-| [**acex**](https://github.com/quaywin/acex) | [![Stars](https://img.shields.io/github/stars/quaywin/acex?style=flat-square&label=%E2%AD%90)](https://github.com/quaywin/acex/stargazers) | `Elixir` `IPTV` `Docker` | Zero-transcode AceStream gateway and IPTV hub with multi-source failover and HLS casting. |
+| [**caudata**](https://github.com/quaywin/caudata) | [![Stars](https://img.shields.io/github/stars/quaywin/caudata?style=flat-square&label=%E2%AD%90)](https://github.com/quaywin/caudata/stargazers) | `Elixir` | Collaborative zero-config multi-server log streamer built with Elixir/OTP, Ratatui, and Phoenix LiveView. |
+| [**agys**](https://github.com/quaywin/agys) | [![Stars](https://img.shields.io/github/stars/quaywin/agys?style=flat-square&label=%E2%AD%90)](https://github.com/quaywin/agys/stargazers) | `Go` | Multi-profile isolation & real-time quota tracking for Antigravity CLI in Herdr via zero-pollution sandboxing. |
+| [**hermit**](https://github.com/quaywin/hermit) | [![Stars](https://img.shields.io/github/stars/quaywin/hermit?style=flat-square&label=%E2%AD%90)](https://github.com/quaywin/hermit/stargazers) | `Elixir` | Modular multi-tunnel VPN orchestrator & DNS control plane with ad-blocking DoH support. |
+| [**strix**](https://github.com/quaywin/strix) | [![Stars](https://img.shields.io/github/stars/quaywin/strix?style=flat-square&label=%E2%AD%90)](https://github.com/quaywin/strix/stargazers) | `TypeScript` | Streaming scrape API built on Elysia + Playwright with headless browser automation. |
+| [**rlink**](https://github.com/quaywin/rlink) | [![Stars](https://img.shields.io/github/stars/quaywin/rlink?style=flat-square&label=%E2%AD%90)](https://github.com/quaywin/rlink/stargazers) | `Go` `Shell` | Open remote code in your local Zed, VS Code, or Cursor instantly from remote terminals over reverse SSH tunnel. |
+| [**acex**](https://github.com/quaywin/acex) | [![Stars](https://img.shields.io/github/stars/quaywin/acex?style=flat-square&label=%E2%AD%90)](https://github.com/quaywin/acex/stargazers) | `Elixir` | Zero-transcode AceStream gateway and IPTV hub with multi-source failover and HLS casting. |
 
 ---
 
