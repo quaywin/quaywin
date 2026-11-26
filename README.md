@@ -24,7 +24,7 @@ I specialize in building distributed, high-concurrency systems, quantitative eng
 
 ### 🚀 Active Products & Platforms
 
-| Platform | Stack | Description |
+| Platform | Language | Description |
 | :--- | :--- | :--- |
 | [**PickIn**](https://pickin.app/) | `Elixir` `LiveView` `Tailwind` | Real-time social sports prediction arena featuring private friend pools, live scoreboards, and tactical Hope Star multipliers. |
 | [**Quaywin Trading**](https://trading.quaywin.com/) | `Elixir` `LiveView` `Binance` `MCP` | Sub-millisecond algorithmic trading platform with in-memory indicator computing, automated Binance Futures execution, and MCP AI agent copilot. |
@@ -33,7 +33,7 @@ I specialize in building distributed, high-concurrency systems, quantitative eng
 
 ### ⭐️ Open-Source & Developer Tooling
 
-| Project | Stars | Stack | Description |
+| Project | Stars | Language | Description |
 | :--- | :---: | :--- | :--- |
 | [**caudata**](https://github.com/quaywin/caudata) | [![Stars](https://img.shields.io/github/stars/quaywin/caudata?style=flat-square&label=%E2%AD%90)](https://github.com/quaywin/caudata/stargazers) | `Elixir` `Ratatui` `LiveView` | Collaborative zero-config multi-server log streamer built with Elixir/OTP, Ratatui, and Phoenix LiveView. |
 | [**agys**](https://github.com/quaywin/agys) | [![Stars](https://img.shields.io/github/stars/quaywin/agys?style=flat-square&label=%E2%AD%90)](https://github.com/quaywin/agys/stargazers) | `Go` `CLI` | Multi-profile isolation & real-time quota tracking for Antigravity CLI in Herdr via zero-pollution sandboxing. |
